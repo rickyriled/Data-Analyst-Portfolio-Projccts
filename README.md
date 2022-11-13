@@ -1,7 +1,7 @@
 # Richrd Wilde -- Data Analyst Portfolio:
 
 ## About
-Hello, I'm Ricky! I'm a recently-graduated Maths major from Montclair State University, aiming for a career in data analytics. I work frequently with coding languages such as python/SQL/R, general data analysis/ visualization tools such as Excel and Tableau, and have a high level of general experience in Mathematics, Statistics, Computer Science, and Databases. 
+Hello, I'm aiming for a career in data analytics. I work frequently with coding languages such as python/SQL/R, general data analysis/ visualization tools such as Excel and Tableau, and have a high level of general experience in Mathematics, Statistics, Computer Science, and Databases. 
 
 This is a repository that I have created to showcase skills, share projects and track my progress in Data Analytics/Data Science related topics.
 
